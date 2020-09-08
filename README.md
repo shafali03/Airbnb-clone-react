@@ -35,7 +35,8 @@ yarn add react-router-dom
 8.  Select the project (example: airbnb-cloned-3a579 )
 9.  What do you want to use as your public directory? build
 10. Configure as a single-page app (rewrite all urls to /index.html)? (y/N) y
-11. firebase deploy
+11. yarn build
+12. firebase deploy
 
 ### Live preview 
-[Airbnb clone]()
+[Airbnb clone](https://airbnb-d3d38.web.app/)
