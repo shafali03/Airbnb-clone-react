@@ -3,8 +3,8 @@
 
 An Airbnb cloned site which allows users to select dates and number of guests. Once you have chosen the date you can then search for the airbnb.The search airbnb and explore button displays a list of rooms available with descriptions, images, rating and price. 
 
-<img src="https://res.cloudinary.com/shafali/image/upload/v1601120068/airbnb_mzpdhe.gif" class="card-img"
-alt="airbnb air clone gif">
+<img src='https://res.cloudinary.com/shafali/image/upload/v1601123757/airbnb_dp1dcc.gif'>
+
 
 ## Yarn packages
 ```
