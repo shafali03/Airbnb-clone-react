@@ -5,7 +5,6 @@ An Airbnb cloned site which allows users to select dates and number of guests. O
 
 <img src='https://res.cloudinary.com/shafali/image/upload/v1601123757/airbnb_dp1dcc.gif'>
 
-
 ## Yarn packages
 ```
 yarn add @material-ui/core
